@@ -1,4 +1,4 @@
-[Code under construction]
+[Code under construction == Ask before using]
 
 # FLOSSY
 
